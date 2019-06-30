@@ -28,3 +28,4 @@ C:\Users\acer\Desktop\asp-app\obj\Debug\netcoreapp2.2\asp-app.Views.pdb
 C:\Users\acer\Desktop\asp-app\obj\Debug\netcoreapp2.2\asp-app.dll
 C:\Users\acer\Desktop\asp-app\obj\Debug\netcoreapp2.2\asp-app.pdb
 C:\Users\acer\Desktop\asp-app\obj\Debug\netcoreapp2.2\asp-app.csproj.CopyComplete
+C:\Users\acer\Desktop\asp-app\obj\Debug\netcoreapp2.2\Razor\Views\Homepage\HomePage.g.cshtml.cs
